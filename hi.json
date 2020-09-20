@@ -50,15 +50,6 @@
         "November": "नवंबर",
         "December": "दिसंबर"
     },
-    
-    
-     
-     "के बारे में": "के बारे में",
-     "url": "URL",
-     "आपका स्वागत है  है",
-     "लॉगआउट": "लॉग आउट करें",
-     "वेबसाइट": "वेबसाइट",
-
     "dashboard": "डैशबोर्ड",
     "manage-users": "उपयोगकर्ताओं को प्रबंधित करें",
     "manage-categories": "श्रेणियां प्रबंधित करें",
@@ -74,8 +65,8 @@
     "about": "संबंद्ध में",
     "url": "यूआरएल ",
     "welcome": "स्वागत",
-    "logout": "Log out",
-    "website": "Website",
+    "logout": "लॉग आउट करें",
+    "website": "वेबसाइट",
     "publish": "Publish",
     "manage": "Manage",
     "content": "Content",
